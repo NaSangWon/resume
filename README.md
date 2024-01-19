@@ -35,8 +35,7 @@ https://github.com/NaSangWon/gigabox
 
 영화관 플랫폼 운영에 필요한 데이터베이스를 E-R 다이어그램으로 설계하고, MySQL로 구현했습니다. JSP, JDBC로 웹어플리케이션을 만들었습니다. 회원가입, 영화관, 영화, 상영, 예매 관련 정보를 조회하거나 수정할 수 있도록 했습니다.
 
-![ERD](https://github.com/NaSangWon/resume/assets/86000275/38bf5825-66c5-4f9a-821b-855a1bc0b981)
-<!-- 위 ERD 사진은 따로 해당하는 리포지토리에 올리고 URL로... -->
+![ERD](assets/gigabox_erd.png)
 
 ### 2.2. 음악 정보 공유 웹 서비스 개발 ###
 
@@ -66,6 +65,8 @@ MISP 공유 시스템을 분석한 내용으로 논문을 공저자로 등록되
 https://github.com/NaSangWon/ooxml-malware-detection-machine-learning
 
 OOXML 문서, Windows office 문서 파일의 악성 요소를 탐지하는 머신러닝 모듈을 개발했습니다. 
+
+![ooxml ml module preocess](/assets/ooxml_process.png)
 
 OOXML 압축 위변조 구조, VBA Macro, VirusTotal 샌드박스 분석 결과를 feature로 추출했습니다. 악성 코드를 분석하기 위해 VMware로 Ubuntu 가상환경을 구축했습니다. scikit learn으로 머신러닝을 구현했습니다.
 
