@@ -54,6 +54,7 @@ Python으로 음악 스트리밍 플랫폼 링크를 변환해주는 웹어플�
 ### 3.1. Data Enrichment 확장 요소 도출 및 데이터 분석 ###
 
 * Python
+* PyQt
 
 보안 관련 위협 정보 공유 오픈소스 플랫폼인 [MISP](https://github.com/MISP/MISP), [IntelMQ](https://github.com/certtools/intelmq)의 Github 등을 참고하여 IoC 정보로부터 추가 정보를 이끌어내는 Data Enrichment를 어떻게 수행하는지 알아보고, Data Enrichment로 활용되는 주요 플랫폼의 API를 이용해 Python으로 GUI 모듈을 구현했습니다.
 
@@ -79,6 +80,7 @@ https://github.com/NaSangWon/ooxml-malware-detection-machine-learning
 
 * Python
 * scikit-learn
+* PyQt
 
 OOXML 문서, Windows office 문서 파일의 악성 요소를 탐지하는 머신러닝 모듈을 개발했습니다. 
 
