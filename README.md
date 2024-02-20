@@ -39,8 +39,6 @@ https://github.com/NaSangWon/gigabox
 
 영화관 플랫폼 운영에 필요한 데이터베이스를 E-R 다이어그램으로 설계하고, MySQL로 구현했습니다. JSP, JDBC로 웹어플리케이션을 만들었습니다. 회원가입, 영화관, 영화, 상영, 예매 관련 정보를 조회하거나 수정할 수 있도록 했습니다.
 
-![ERD](assets/gigabox_erd.png)
-
 ### 2.2. 음악 정보 공유 웹 서비스 개발 ###
 
 * Python
